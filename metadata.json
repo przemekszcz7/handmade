@@ -1,0 +1,6 @@
+{
+  "name": "Warsztat Hand Made",
+  "description": "Bespoke furniture atelier in Piaseczno creating custom epoxy resin tables, loft furniture, furniture renovation, and steel welding.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
